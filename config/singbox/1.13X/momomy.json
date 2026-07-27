@@ -11,6 +11,7 @@
       {"clash_mode": "Direct", "server": "ali"},
       {"clash_mode": "Global", "server": "fakeip"},
       {"rule_set": "geosite-fakeipfilter-cn", "server": "ali"},
+      {"domain_suffix": ["btgtmjx.com", "vc-oss.top", "zmglqtdbkr.com", "vcjs.top"], "server": "ali"},
       {"query_type": ["A", "AAAA"], "server": "fakeip", "rewrite_ttl": 1},
       {"rule_set": "geosite-cn","server": "ali"}
     ],
